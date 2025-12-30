@@ -1,0 +1,10 @@
+{
+  "img1": "left.jpg",
+  "img2": "right.jpg",
+  "img3": "pier1.JPG",
+  "img4": "pier2.JPG",
+  "img5": "pier3.JPG",
+  "match_threshold": 10000,
+  "ransac_iterations": 1000,
+  "ransac_threshold": 15
+}
